@@ -1,0 +1,9 @@
+com\weezard12\shop\ShopCreateCommand.class
+com\weezard12\shop\ShopResetCommand.class
+com\weezard12\shop\ShopPlaceCommand.class
+com\weezard12\shop\Utils.class
+com\weezard12\shop\ShopCommand.class
+com\weezard12\shop\ShopPlugin.class
+com\weezard12\shop\Shop.class
+com\weezard12\shop\ShopRemoveCommand.class
+com\weezard12\shop\ShopVillagerCommand.class

@@ -1,0 +1,27 @@
+name: ShopPlugin
+version: '1.0-SNAPSHOT'
+main: com.weezard12.shop.ShopPlugin
+api-version: '1.21'
+commands:
+  shop:
+    description: My custom command
+
+  shopcreate:
+    description: My custom command
+    permission: op
+
+  shopremove:
+    description: My custom command
+    permission: op
+
+  shopplace:
+    description: My custom command
+    permission: op
+
+  shopreset:
+    description: My custom command
+    permission: op
+
+  shopvillager:
+    description: My custom command
+    permission: op
